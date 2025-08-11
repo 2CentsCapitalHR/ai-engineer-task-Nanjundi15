@@ -3,7 +3,7 @@ import os
 import openai
 
 # Set your OpenAI API Key
-openai.api_key = "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"
+openai.api_key = "sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 
 # Required document names
 REQUIRED_DOCUMENTS = [
